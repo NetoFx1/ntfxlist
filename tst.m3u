@@ -354,168 +354,102 @@ https://live-3.otcnet.ru/onehdmulti/index.m3u8
 http://tv.nrg91.gr:1935/onweb/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Deejay TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",DeeJay TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="4FUN.TV" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-id="Sexy KPOP TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sexy-KPOP-TV.png",Sexy KPOP TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/VH1.png",VH1 Italia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/FM-Italia-TV.png",FM Italia TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream1.xdevel.com/video0s975817-1182/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Colosal-TV.png",Colosal TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",California Music Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fpn9sr15-vpg2-1jg-4kgx-p57ss8l4h2/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CMC.png",Country Music Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV BR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="fueltvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Red-Bull-TV.png",Red Bull TV 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-1.png",Abu Dhabi Sports 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-2.png",Abu Dhabi Sports 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 3" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-3.png",Abu Dhabi Sports 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Abu Dhabi Sports 4" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Abu-Dhabi-Sports-4.png",Abu Dhabi Sports 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Yas TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Yas-TV.png",Yas TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai Sports" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports.png",Dubai Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai Sports 2" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports-2.png",Dubai Sports 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai Sports 3" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Sports-3.png",Dubai Sports 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai Racing 1 HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-Racing.png",Dubai Racing 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png",Fashion TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="hd-fashion" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/HD-Fashion-&-Lifestyle-TV.png",HD Fashion & Lifestyle TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/World-Fashion-Channel.jpg",World Fashion Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Dubai One" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Dubai-One.png",Dubai One
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ICI Canal international HD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ICI-Television.png",ICI Television
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Grand Lille TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Grand-Lille-TV.png",Grand Lille TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://str81.creacast.com/grandlilletv/high/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Grand-Littoral-TV.png",Grand Littoral TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="Alsace 20" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Alsace-20.png",Alsace 20
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://alsace20.live-kd.com/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="ARD" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Das-Erste.png",Das Erste
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mcdn.daserste.de/daserste/int/master.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-1.png",Akaku TV 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-2.png",Akaku TV 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Akaku-TV-3.png",Akaku TV 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
 
